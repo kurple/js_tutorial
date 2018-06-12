@@ -1,8 +1,6 @@
 # Phrase object (with palindrome detector)
 This is a sample NPM module created as part of
-[*Learn Enough JavaScript to Be Dangerous*](https://www.learnenough.com/javascript-tutorial).
-
-The module can be used as follows:
+[*Learn Enough JavaScript to Be Dangerous*](https://www.learnenough.com/javascript-tutorial). The module can be used as follows:
 
 ```bash
 $ npm install --global kurple-palindrome
